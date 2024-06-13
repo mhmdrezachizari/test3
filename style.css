@@ -1,0 +1,17 @@
+.itemsLink {
+  text-decoration: none;
+  float: right;
+  border: 1px solid transparent;
+  border-radius: 14px;
+  padding: 8px;
+  width: 52px;
+  background: rgb(54,41,36);
+  background: linear-gradient(90deg, rgba(54,41,36,1) 0%, rgba(188,92,71,1) 0%, rgba(69,74,57,1) 0%, rgba(115,191,133,1) 12%, rgba(117,71,103,1) 21%, rgba(102,98,120,1) 31%, rgba(112,167,120,1) 43%, rgba(112,167,120,1) 47%, rgba(207,25,65,1) 55%, rgba(113,79,108,1) 65%, rgba(38,82,144,1) 75%, rgba(107,130,111,1) 100%, rgba(0,212,255,1) 100%, rgba(29,59,118,1) 100%, rgba(39,67,117,1) 100%, rgba(234,235,161,1) 100%); 
+}
+.divContainer {
+  width: 100%;
+}
+.itemsLink:hover {
+  color: white;
+  background-color: #0069d9;
+}
